@@ -1,0 +1,9 @@
+ JEDECFILE:modulo_display.jed			Created on:Mar 13 21:05:03 2017
+NOTE DEVICE XCR22V10-7SO24C*
+QP24* QF5828* F0*
+QV0* X0*
+
+Note PINS clk:1 display[0]:18 display[1]:17 reset:2 sensores[0]:13*
+Note PINS sensores[1]:11 sensores[2]:10 sensores[3]:9*
+Note PINS*
+

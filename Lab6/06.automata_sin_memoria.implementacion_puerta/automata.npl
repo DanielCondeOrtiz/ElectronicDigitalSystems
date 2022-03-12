@@ -1,0 +1,12 @@
+JDF D
+// Created by iSE ver 1.0
+PROJECT Untitled
+DESIGN modulo_automata Normal
+DEVKIT XCR22V10 SO24C
+FLOW XST VHDL
+MODULE automata.vhd
+MODSTYLE modulo_automata Normal
+[STRATEGY-LIST]
+Normal=True, 1489363970
+[Normal]
+xplaReadUCF=vhdxst.xcr22v10ffs710, Implementation.TASKfitDes, 1489412044, D:\sed_gitt\sed\trabajo\sintesis\automata\automata.ucf

@@ -1,0 +1,13 @@
+ JEDECFILE:modulo_automata.jed			Created on:Mar 13 17:40:45 2017
+NOTE DEVICE XCR22V10-7SO24C*
+QP24* QF5828* F0*
+QV0* X0*
+
+Note PINS abrirpuerta:15 clk:1 destino[0]:7 destino[1]:6 destino[2]:5*
+Note PINS destino[3]:4 estadopuerta:3 motor[0]:17 motor[1]:20 reset:8*
+Note PINS sensores[0]:13 sensores[1]:11 sensores[2]:10 sensores[3]:9 N110:18*
+Note PINS N147:22 N218:16*
+Note PINS estado_FFD1:14 estado_FFD2:21 estado_FFD3:23 subiendo:19*
+
+Note BUSES *
+

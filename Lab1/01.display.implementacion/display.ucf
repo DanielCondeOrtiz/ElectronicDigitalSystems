@@ -1,0 +1,5 @@
+NET "clk"                LOC = "P1" ;      
+NET "reset"              LOC = "P2" ;     
+                                                     
+
+
